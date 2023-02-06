@@ -1,0 +1,15 @@
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\bin\Debug\net6.0\1.exe
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\bin\Debug\net6.0\1.deps.json
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\bin\Debug\net6.0\1.runtimeconfig.json
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\bin\Debug\net6.0\1.dll
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\bin\Debug\net6.0\1.pdb
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\obj\Debug\net6.0\1.dll
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\obj\Debug\net6.0\refint\1.dll
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\obj\Debug\net6.0\1.pdb
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+D:\natty\files\KMUTT\2-Sophomore\Term-2\GDM222\2-2-HW1\1\obj\Debug\net6.0\ref\1.dll
